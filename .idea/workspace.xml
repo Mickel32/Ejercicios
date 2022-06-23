@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bc24db9-93b6-45ed-bdf9-9935d3706302" name="Changes" comment="creacion de programa">
-      <change afterPath="$PROJECT_DIR$/src/juegoRPS/juegoRPS.java" afterDir="false" />
-    </list>
+    <list default="true" id="7bc24db9-93b6-45ed-bdf9-9935d3706302" name="Changes" comment="creacion de programa" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +37,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -58,7 +57,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655946966018</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="creacion de programa">
+      <created>1655947164960</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655947164960</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
